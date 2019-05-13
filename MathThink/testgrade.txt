@@ -1,0 +1,6 @@
+moro 95
+charly 80
+david 81
+pedro 79
+pomo 90
+flaco 51
